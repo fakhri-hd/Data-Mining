@@ -1,1 +1,1 @@
-Dataset yang digunakan tersedia di https://stis-ac-id-dot-newmailmergetracking.uc.r.appspot.com/?c=17sGAAZaJsjGaVuOlugM0R2kAt99xwlhAQKwO9AZ-vrs&q=0&r=17568c43e904bb74&o=https://archive.ics.uci.edu/ml/datasets/Acute+Inflammations
+Dataset yang digunakan tersedia di https://archive.ics.uci.edu/ml/datasets/Acute%20Inflammations
